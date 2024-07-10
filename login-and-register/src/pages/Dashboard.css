@@ -1,0 +1,12 @@
+.dash{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+  margin: 0px;
+  padding: 0px;
+   
+   background-image: url(../assets/flower.png);
+   background-size: cover;
+   background-position: center;
+
+}
